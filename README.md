@@ -78,11 +78,11 @@ This Power BI template focuses on providing clear visual analytics for a pizza c
 
 ### 📍 Overall Sales Performance View
 
-![Pizza Sales Report](/mnt/data/Pizza%20Sales%20Report.png)
+https://github.com/Shivaprasad0108/pizza_sales_analysis/blob/main/Pizza%20Sales%20Report.png
 
 ### 📍 Best/Worst Sellers View
 
-![Best/Worst Sellers](/mnt/data/Best_Worst%20Sellers.png)
+https://github.com/Shivaprasad0108/pizza_sales_analysis/blob/main/Best_Worst%20Sellers.png
 
 
 ---
