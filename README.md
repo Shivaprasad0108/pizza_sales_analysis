@@ -82,9 +82,7 @@ https://github.com/Shivaprasad0108/pizza_sales_analysis/blob/main/Pizza%20Sales%
 
 ### 📍 Best/Worst Sellers View
 
-https://github.com/Shivaprasad0108/pizza_sales_analysis/blob/main/Best_Worst%20Sellers.png
-
-
+https://github.com/Shivaprasad0108/pizza_sales_analysis/blob/main/Best%20Worst%20Sellers%20.png
 ---
 
 ## 📬 Contact
